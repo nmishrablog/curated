@@ -18,5 +18,7 @@
     "url": "https://github.com/nmishrablog/curated/issues"
   },
   "homepage": "https://github.com/nmishrablog/curated#readme",
-  "dependencies": "1.2.0"
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
 }
