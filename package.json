@@ -1,0 +1,22 @@
+{
+  "name": "curated",
+  "version": "1.0.0",
+  "description": "--- home: true heroText: Wisdom Curated tagLine: Concise, timely and action-oriented insights. footer: by @_naveenmishra --- ## replace this later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmishrablog/curated.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmishrablog/curated/issues"
+  },
+  "homepage": "https://github.com/nmishrablog/curated#readme",
+  "dependencies": "1.2.0"
+}
