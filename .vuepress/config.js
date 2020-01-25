@@ -12,7 +12,8 @@ module.exports = {
 	themeConfig: {
 		sidebar: 'auto',
 		nav : [
-			{ text: 'Topics', link: '/topics/' }
+			{ text: 'Topics', link: '/topics/' },
+			{ text: 'by @_naveenmishra', link: 'https://twitter.com/_naveenmishra' }
                       ]
 	}
 }
