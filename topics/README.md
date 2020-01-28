@@ -2,4 +2,4 @@
 sidebar: false
 ---
 Charter Cities
-![Charter-Cities](./chartercities/cover.png)
+![Charter-Cities](./charter-cities/cover.png)
