@@ -1,7 +1,7 @@
 ---
 sidebar: false
 ---
-## (Charter Cities)[./charter-cities/]
+## [Charter Cities](./charter-cities/)
  some text
 ## Bitcoin
  some text
