@@ -1,4 +1,5 @@
 ---
+title: Library
 sidebar: auto
 ---
 ## Charter-Cities
