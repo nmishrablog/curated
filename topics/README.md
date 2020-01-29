@@ -2,19 +2,18 @@
 title: Topics
 sidebar: false
 ---
-### [Charter Cities](/https://wisdomcurated.com/charter-cities/)
+### [Charter Cities](/charter-cities/)
     
-### [Bitcoin](/https://wisdomcurated.com/bitcoin/)
+### [Bitcoin](/bitcoin/)
  
-### [Universal Basic Income](/https://wisdomcurated.com/ubi/)
+### [Universal Basic Income](/ubi/)
  
-### [Nutrition](/https://wisdomcurated.com/nutrition/)
+### [Nutrition](/nutrition/)
  
-### [Income Share Agreement](/https://wisdomcurated.com/isa/)
+### [Income Share Agreement](/isa/)
  
-### [Twitter](/https://wisdomcurated.com/twitter/)
+### [Twitter](/twitter/)
  
-### [Remote Work](/https://wisdomcurated.com/remote-work/)
+### [Remote Work](/remote-work/)
  
-### [Online Communities](/https://wisdomcurated.com/online-communities/)
- 
+### [Online Communities](/online-communities/)
