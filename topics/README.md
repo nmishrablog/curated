@@ -2,6 +2,16 @@
 title: Topics
 sidebar: false
 ---
+ <div class="row">
+  <div class="column">## [Charter Cities](./charter-cities/)
+ some text
+## Bitcoin
+ some text
+## Universal Basic Income
+ some text
+</div>
+  <div class="column"></div>
+</div> 
 ## [Charter Cities](./charter-cities/)
  some text
 ## Bitcoin
