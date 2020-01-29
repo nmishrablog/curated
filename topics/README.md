@@ -2,29 +2,20 @@
 title: Topics
 sidebar: false
 ---
- <div class="row">
-  <div class="column">## [Charter Cities](./charter-cities/)
+
+### [Charter Cities](/ /)
+  
+### [Bitcoin](/ /)
  some text
-## Bitcoin
+### [Universal Basic Income](/ /)
  some text
-## Universal Basic Income
+### [Nutrition](/ /)
  some text
-</div>
-  <div class="column"></div>
-</div> 
-## [Charter Cities](./charter-cities/)
+### [Income Share Agreement](/ /)
  some text
-## Bitcoin
+### [Twitter](/ /)
  some text
-## Universal Basic Income
+### [Remote Work](/ /)
  some text
-## Nutrition
- some text
-## Income Share Agreement
- some text
-## Twitter
- some text
-## Remote Work
- some text
-## Online Communities
+### [Online Communities](/ /)
  some text
