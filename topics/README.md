@@ -4,7 +4,7 @@ sidebar: false
 ---
 ### [Charter Cities](/charter-cities/)
 ![img](/charter-cities/cover.png)
-<img src="https://wisdomcurated.com/charter-cities/cover.png" alt="foo">
+![img](./assets/cover.png)
     
 ### [Bitcoin](/bitcoin/)
  
