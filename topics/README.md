@@ -3,7 +3,7 @@ title: Topics
 sidebar: false
 ---
 ### [Charter Cities](/charter-cities/)
-<a href="/charter-cities/"> <img src="./assets/CharterCitiesCover.png" alt="Charter Cities" height="120" Width="160" /> </a>
+<a href="/charter-cities/"> <img src="./assets/CharterCitiesCover.png" alt="Charter Cities" height="90" Width="120" /> </a>
 
     
 ### [Bitcoin](/bitcoin/)
