@@ -65,7 +65,7 @@ sidebar: auto
 * [A Pure Theory of Local Expenditures](http://www.socsci.uci.edu/~jkbrueck/course%20readings/Econ%20272B%20readings/tiebout.pdf)
 * [Toward a Theory of Property Rights](https://econ.ucsb.edu/~tedb/Courses/Ec100C/Readings/Demsetz_Property_Rights.pdf)
 
-# Bitcoin
+## Bitcoin
 
 ### Getting Started <a id="getting_started"></a>
 
