@@ -1,6 +1,6 @@
 module.exports = {
-	title: 'Wisdom Curated',
-	description: 'Human curated, timely, action-oriented insights.',
+	title: 'Naveen Mishra',
+	description: 'Exploring Ideaspaces.',
 	ga: '', // 'UA-124245419-1',
 	serviceWorker: true,
 	head: [
@@ -13,7 +13,7 @@ module.exports = {
 		sidebar: 'auto',
 		nav : [
 			// { text: 'Topics', link: '/topics/' },
-			{ text: 'Library', link: '/library/' },
+			{ text: 'Blog', link: '/blog/' },
 			// { text: 'About', link: '/about/' },
 			{ text: 'by @_naveenmishra', link: 'https://twitter.com/_naveenmishra' }
                       ]
